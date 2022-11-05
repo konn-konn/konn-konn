@@ -1,7 +1,7 @@
 # ℹ️ Information
 
 * Name: konn
-* Twitter: [@konn_koko](#https://twitter.com/konn_koko)
+* Twitter: [@konn_koko](https://twitter.com/konn_koko)
 
 # 📄 Status
 
