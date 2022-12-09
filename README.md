@@ -1,9 +1,22 @@
-# ℹ️ Information
+# <div style="text-align: center;">Profile</div>
 
-* Name: konn
-* Twitter: [@konn_koko](https://twitter.com/konn_koko)
+<div style="text-align: center;">Name: Konn</div>
+<div style="text-align: center;">Twitter: 
+<a href="https://twitter.com/konn_koko" style="text-align: center;">@konn_koko</a></div>
 
-# 📄 Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=konn-konn&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=konn-konn&theme=github_dark)
+<p href="https://twitter.com/konn_koko" align="center">
+    <img alt="" src=https://lanyard.cnrad.dev/api/1030735550409343026>
+</p>
+
+# <div style="text-align: center;">Skills</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,js,react,nextjs,html,css,git,docker,blender,linux" />
+  </a>
+</p>
+
+
+<p href="https://twitter.com/konn_koko" align="center">
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=konn-konn&theme=apprentice&show_icons=true>
+</p>
