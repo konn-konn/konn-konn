@@ -5,7 +5,7 @@
 <a href="https://twitter.com/konn_koko" style="text-align: center;">@konn_koko</a></div>
 
 
-<p href="https://twitter.com/konn_koko" align="center">
+<p href="https://discord.com/users/1030735550409343026" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1030735550409343026>
 </p>
 
