@@ -2,10 +2,9 @@
 
 <div style="text-align: center;">Name: Konn</div>
 <div style="text-align: center;">Twitter: 
-<a href="https://twitter.com/konn_koko" style="text-align: center;">@konn_koko</a>
-[![Build](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/Konn)
-</div>
+<a href="https://twitter.com/konn_koko" style="text-align: center;">@konn_koko</a></div>
 
+[![Build](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/Konn)
 
 <p href="https://discord.com/users/1030735550409343026" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/1030735550409343026>
