@@ -6,7 +6,7 @@
  <a href="https://discord.com/users/1030735550409343026" align="center">Konn#5380</a></div>
  <div align="center">Keybase: 
  <a href="https://keybase.io/konn_ko_" align="center">konn_ko_</a></div>
-<div align="center">Email: hello@konn.ink</div><br>
+<div align="center">Email: hello@konn.ink</div>
 
 # 
 <p href="https://discord.com/users/1030735550409343026" align="center">
